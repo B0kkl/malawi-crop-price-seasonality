@@ -1,0 +1,9 @@
+crop,history,best_months,worst_months,price_gain_best_vs_worst_%,years_tested,years_pattern_held,months_covered,consistency_%
+Maize,strong,"Feb, Jan, Mar","May, Jun, Jul",38.2,18,17,12,94.0
+Rice,strong,"Feb, Mar, Apr","Jul, Aug, Oct",11.3,14,12,12,86.0
+Cassava,strong,"Jan, Dec, Feb","May, Apr, Jun",17.7,10,9,12,90.0
+Beans,strong,"Feb, Jan, May","Apr, Oct, Jun",11.0,7,6,12,86.0
+Groundnuts (shelled),moderate,"Mar, Feb, Jan","Jul, May, Jun",20.7,5,5,12,100.0
+Cowpeas,indicative,"Apr, May, Mar","Aug, Sep, Nov",31.4,1,1,12,100.0
+Pigeon peas,indicative,"Apr, May, Mar","Jul, Aug, Oct",52.0,1,1,12,100.0
+Sweet potatoes,indicative,"Sep, Aug, Oct","Jul, Feb, Mar",47.6,1,1,9,100.0
